@@ -1,4 +1,4 @@
-# employeemanagmentsystem
+
 # Employee Management System
 
 ##  Project Overview
@@ -19,7 +19,7 @@ The application validates applicant information, stores records in the database,
 
 ---
 
-## ✨ Features
+##  Features
 
 - User Login (HR and Applicant)
 - Applicant Registration
@@ -33,7 +33,7 @@ The application validates applicant information, stores records in the database,
 
 ---
 
-## 📋 Applicant Requirements
+##  Applicant Requirements
 
 Each applicant must provide:
 
@@ -45,7 +45,7 @@ Each applicant must provide:
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Java
 - Java Swing
@@ -75,7 +75,7 @@ EmployeeManagementSystem
 
 ---
 
-## 🗄 Database Tables
+##  Database Tables
 
 - Users
 - Applicants
@@ -96,7 +96,7 @@ EmployeeManagementSystem
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Email Notifications
 - PDF Report Generation
@@ -107,6 +107,6 @@ EmployeeManagementSystem
 
 ---
 
-## 📄 License
+##  License
 
 This project is developed for educational purposes.
