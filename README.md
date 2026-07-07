@@ -56,7 +56,7 @@ Each applicant must provide:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 EmployeeManagementSystem
