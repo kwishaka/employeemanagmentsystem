@@ -1,7 +1,7 @@
 # employeemanagmentsystem
 # Employee Management System
 
-## 📌 Project Overview
+##  Project Overview
 
 The Employee Management System is a Java desktop application designed to simplify the employee recruitment process. The system allows applicants to submit their information and enables Human Resource (HR) personnel to review applications and make hiring decisions.
 
@@ -9,7 +9,7 @@ The application validates applicant information, stores records in the database,
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Manage employee applications efficiently.
 - Store applicant information securely.
@@ -85,7 +85,7 @@ EmployeeManagementSystem
 
 ---
 
-## 🔄 System Workflow
+##  System Workflow
 
 1. Applicant creates an account.
 2. Applicant submits required documents.
@@ -93,15 +93,6 @@ EmployeeManagementSystem
 4. System validates applicant information.
 5. HR accepts or rejects the application.
 6. Accepted applicants become employees.
-
----
-
-## 👥 Team Members
-
-| Name | Role |
-|------|------|
-| Ukwishaka Sandrine | Developer |
-| __________________ | Developer |
 
 ---
 
